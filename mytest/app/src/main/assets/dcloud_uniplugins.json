@@ -1,0 +1,17 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "MyTest-Text",
+          "class": "com.example.mytest_text.MyTestText"
+        }
+      ]
+    },
+    {
+      "hooksClass": "uni.dcloud.io.uniplugin_stepcounter.StepCounterHookProxy"
+    }
+  ]
+}
